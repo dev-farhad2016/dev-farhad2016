@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/0B6PziU5Grc6hOVFrcWlMUGpqUjA/view?usp=sharing&resourcekey=0-jIWDs7kGlnudWonBzIB5pg" alt="">
+<img src="https://drive.google.com/file/d/0B6PziU5Grc6hOVFrcWlMUGpqUjA/view?usp=sharing&resourcekey=0-jIWDs7kGlnudWonBzIB5pg">
 <h1 align="center">Hello! 👋, I'm Mohammad Farhad</h1>
 <h3 align="center">Passionate Web Design & developer |  Clean Code  |  Web Solutions</h3>
 
