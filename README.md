@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Mohammad Farhad</h1>
-<h3 align="center">Passionate Web Design & developer ! Clean Code ! Web Solutions</h3>
+<h3 align="center">Passionate Web Design & developer |  Clean Code  |  Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-farhad2016&label=Profile%20views&color=0e75b6&style=flat" alt="dev-farhad2016" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com/u/farhad2016)
 
-- 🌱 I’m currently learning **JavaScript ! PHP ! MySQL ! WordPress**
+- 🌱 I’m currently learning **JavaScript  |  PHP  |  MySQL  |  WordPress**
 
 - 👯 I’m looking to collaborate on [Freelancer.com](https://www.freelancer.com/u/farhad2016)
 
