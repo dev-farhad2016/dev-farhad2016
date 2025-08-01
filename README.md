@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/KxrTbrNZ/2636-1-copy.jpg](https://i.ibb.co/Y42GJdv0/banner.png)"/>
+<img src="https://i.ibb.co/Y42GJdv0/banner.png"/>
 <h1 align="center">Hello! 👋, I'm Mohammad Farhad</h1>
 <h3 align="center">Passionate Web Design & developer |  Clean Code  |  Web Solutions</h3>
 
